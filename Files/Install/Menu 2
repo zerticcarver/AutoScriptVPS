@@ -1,12 +1,15 @@
 #!/bin/bash
-# ******************************************
-# Program: Autoscript Setup VPS 2021
-# Developer: KingKongVPN
-# Nickname: xiihaiqal
-# Modify : @xiihaiqal
-# Date: 04-01-2019
-# Last Updated: 14-01-2021
-# ******************************************
+# :::::::::::::::::::::#
+## TRISNA SAutoInstall ##
+#::::::::::::::::::::::#
+# Namespace: TSAI #
+# Versi: 1.0 #
+# Modify: Zerticcarver #
+# Updated: 14/3/2021 #
+# Update Info: xedocst.xerosoftio.eu.org #
+#:::::::::::::::::::::::::::::::::::::::#
+# Created by © TRISNA797#
+#:::::::::::::::::::::::::::::::::::::::#
 color1='\e[031;1m'
 color2='\e[34;1m'
 color3='\e[0m'
